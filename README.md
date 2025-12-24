@@ -1,0 +1,2 @@
+# JavaSelf
+to learn myself
